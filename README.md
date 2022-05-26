@@ -1,2 +1,2 @@
-# Diretório - dio-desafio-github
+# Repositorio / dio-desafio-github /
 Primeiro Projeto GitHub da DIO
